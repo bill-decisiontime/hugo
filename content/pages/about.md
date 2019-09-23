@@ -4,7 +4,7 @@ date: 2019-09-23T22:59:49+01:00
 type: "page"
 url: "/about"
 hideDate: true
-draft: true
+draft: false
 ---
 
 Nisi Lorem aliquip enim voluptate elit Lorem commodo fugiat. Pariatur laboris ex nisi ipsum nisi esse exercitation reprehenderit laboris officia labore officia anim. Commodo officia cillum irure magna velit eu eiusmod do cillum velit et qui eu. Non ut tempor esse ullamco minim elit magna deserunt labore non officia voluptate.
