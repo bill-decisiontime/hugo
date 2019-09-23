@@ -4,6 +4,7 @@ date: 2019-09-23T22:03:10+01:00
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 summary: 'this is the description'
 show_reading_time: true
+disqus: false
 draft: false
 ---
 

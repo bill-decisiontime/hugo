@@ -4,6 +4,7 @@ date: 2019-09-23T22:59:49+01:00
 type: "page"
 url: "/about"
 hideDate: true
+disqus: false
 draft: false
 ---
 
