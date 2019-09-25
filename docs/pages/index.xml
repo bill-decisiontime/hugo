@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Hugo Hermit</title>
+    <link>https://bill-decisiontime.github.io/hugo/pages/</link>
+    <description>Recent content in Pages on Hugo Hermit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 23 Sep 2019 22:59:49 +0100</lastBuildDate>
+    
+	<atom:link href="https://bill-decisiontime.github.io/hugo/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://bill-decisiontime.github.io/hugo/about/</link>
+      <pubDate>Mon, 23 Sep 2019 22:59:49 +0100</pubDate>
+      
+      <guid>https://bill-decisiontime.github.io/hugo/about/</guid>
+      <description>Nisi Lorem aliquip enim voluptate elit Lorem commodo fugiat. Pariatur laboris ex nisi ipsum nisi esse exercitation reprehenderit laboris officia labore officia anim. Commodo officia cillum irure magna velit eu eiusmod do cillum velit et qui eu. Non ut tempor esse ullamco minim elit magna deserunt labore non officia voluptate.
+Reprehenderit occaecat nisi dolor aute velit aute voluptate consectetur mollit. Ullamco aute occaecat veniam Lorem laborum ullamco minim sunt officia enim.</description>
+    </item>
+    
+  </channel>
+</rss>
