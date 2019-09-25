@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Hugo Hermit</title>
-		<link>https://example.com/posts/</link>
+		<link>https://bill-decisiontime.github.io/hugo/posts/</link>
 		<description>Recent content in Posts on Hugo Hermit</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
 		<lastBuildDate>Mon, 23 Sep 2019 22:03:10 +0100</lastBuildDate>
-		<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://bill-decisiontime.github.io/hugo/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>My Second Post</title>
-			<link>https://example.com/posts/my-second-post/</link>
+			<link>https://bill-decisiontime.github.io/hugo/posts/my-second-post/</link>
 			<pubDate>Mon, 23 Sep 2019 22:03:10 +0100</pubDate>
 			
-			<guid>https://example.com/posts/my-second-post/</guid>
+			<guid>https://bill-decisiontime.github.io/hugo/posts/my-second-post/</guid>
 			<description>this is the description</description>
 			<content type="html"><![CDATA[<p>Lorem Ipsum is <code>simply</code> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 
@@ -30,10 +30,10 @@
 		
 		<item>
 			<title>My First Poste</title>
-			<link>https://example.com/posts/my-first-post/</link>
+			<link>https://bill-decisiontime.github.io/hugo/posts/my-first-post/</link>
 			<pubDate>Mon, 23 Sep 2019 21:19:45 +0100</pubDate>
 			
-			<guid>https://example.com/posts/my-first-post/</guid>
+			<guid>https://bill-decisiontime.github.io/hugo/posts/my-first-post/</guid>
 			<description> HI Below is some sample code:
 SELECT * FROM users;</description>
 			<content type="html"><![CDATA[

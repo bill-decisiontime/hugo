@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://bill-decisiontime.github.io/hugo/about/</loc>
     <lastmod>2019-09-24T00:37:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://bill-decisiontime.github.io/hugo/</loc>
     <lastmod>2019-09-24T00:37:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/pages/</loc>
+    <loc>https://bill-decisiontime.github.io/hugo/pages/</loc>
     <lastmod>2019-09-24T00:37:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/my-second-post/</loc>
+    <loc>https://bill-decisiontime.github.io/hugo/posts/my-second-post/</loc>
     <lastmod>2019-09-24T00:37:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://bill-decisiontime.github.io/hugo/posts/</loc>
     <lastmod>2019-09-24T00:37:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/my-first-post/</loc>
+    <loc>https://bill-decisiontime.github.io/hugo/posts/my-first-post/</loc>
     <lastmod>2019-09-24T00:37:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://bill-decisiontime.github.io/hugo/tags/</loc>
   </url>
   
 </urlset>
