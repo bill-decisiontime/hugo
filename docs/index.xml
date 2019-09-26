@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Hugo Hermit</title>
     <link>https://hugo.whiteimage.com/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Hugo Hermit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Wed, 25 Sep 2019 22:35:41 +0100</lastBuildDate>
     
 	<atom:link href="https://hugo.whiteimage.com/index.xml" rel="self" type="application/rss+xml" />
@@ -45,8 +46,8 @@ Reprehenderit occaecat nisi dolor aute velit aute voluptate consectetur mollit. 
       <pubDate>Mon, 23 Sep 2019 21:19:45 +0100</pubDate>
       
       <guid>https://hugo.whiteimage.com/posts/my-first-post/</guid>
-      <description> HI Below is some sample code:
-SELECT * FROM users;  </description>
+      <description>Below is some sample code:
+SELECT * FROM `users` `u`;first.onchange = function() { myWorker.postMessage([first.value,second.value]); console.log(&amp;#39;Message posted to worker&amp;#39;); } second.onchange = function() { myWorker.postMessage([first.value,second.value]); console.log(&amp;#39;Message posted to worker&amp;#39;); } &amp;lt;?php $xml=simplexml_load_file(&amp;#34;note.xml&amp;#34;) or die(&amp;#34;Error: Cannot create object&amp;#34;); echo $xml-&amp;gt;to . &amp;#34;&amp;lt;br&amp;gt;&amp;#34;; echo $xml-&amp;gt;from . &amp;#34;&amp;lt;br&amp;gt;&amp;#34;; echo $xml-&amp;gt;heading . &amp;#34;&amp;lt;br&amp;gt;&amp;#34;; echo $xml-&amp;gt;body; ?&amp;gt; &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Title of the document&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; The content of the document...... &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;</description>
     </item>
     
   </channel>
