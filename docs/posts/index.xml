@@ -1,39 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posts on Hugo Hermit</title>
+		<title>Hugo Hermit</title>
 		<link>https://hugo.whiteimage.com/posts/</link>
-		<description>Recent content in Posts on Hugo Hermit</description>
+		<description>Recent content on Hugo Hermit</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Mon, 23 Sep 2019 22:03:10 +0100</lastBuildDate>
+		<lastBuildDate>Sun, 25 Aug 2019 21:19:45 +0100</lastBuildDate>
 		<atom:link href="https://hugo.whiteimage.com/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>My Second Post</title>
-			<link>https://hugo.whiteimage.com/posts/my-second-post/</link>
-			<pubDate>Mon, 23 Sep 2019 22:03:10 +0100</pubDate>
+			<title>my first post</title>
+			<link>https://hugo.whiteimage.com/posts/my-third-post/</link>
+			<pubDate>Sun, 25 Aug 2019 21:19:45 +0100</pubDate>
 			
-			<guid>https://hugo.whiteimage.com/posts/my-second-post/</guid>
-			<description>this is the description</description>
-			<content type="html"><![CDATA[<p>Lorem Ipsum is <code>simply</code> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-
-<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &lsquo;Content here, content here&rsquo;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &lsquo;lorem ipsum&rsquo; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
-
-<ul>
-<li>kjsdlfjsdf</li>
-<li>sdjfklsdjf</li>
-<li>sdfkjsdhfkjsd</li>
-</ul>
-]]></content>
-		</item>
-		
-		<item>
-			<title>My First Poste</title>
-			<link>https://hugo.whiteimage.com/posts/my-first-post/</link>
-			<pubDate>Mon, 23 Sep 2019 21:19:45 +0100</pubDate>
-			
-			<guid>https://hugo.whiteimage.com/posts/my-first-post/</guid>
+			<guid>https://hugo.whiteimage.com/posts/my-third-post/</guid>
 			<description>Below is some sample code:
 SELECT * FROM `users` `u`;first.onchange = function() { myWorker.postMessage([first.value,second.value]); console.log(&amp;#39;Message posted to worker&amp;#39;); } second.onchange = function() { myWorker.postMessage([first.value,second.value]); console.log(&amp;#39;Message posted to worker&amp;#39;); } &amp;lt;?php $xml=simplexml_load_file(&amp;#34;note.xml&amp;#34;) or die(&amp;#34;Error: Cannot create object&amp;#34;); echo $xml-&amp;gt;to . &amp;#34;&amp;lt;br&amp;gt;&amp;#34;; echo $xml-&amp;gt;from . &amp;#34;&amp;lt;br&amp;gt;&amp;#34;; echo $xml-&amp;gt;heading . &amp;#34;&amp;lt;br&amp;gt;&amp;#34;; echo $xml-&amp;gt;body; ?&amp;gt; &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Title of the document&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; The content of the document...... &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;</description>
 			<content type="html"><![CDATA[<p>Below is some sample code:</p>
@@ -65,6 +46,83 @@ The content of the document......
 <span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
 
 <span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span></code></pre></div>]]></content>
+		</item>
+		
+		<item>
+			<title>my forth post</title>
+			<link>https://hugo.whiteimage.com/posts/my-forth-post/</link>
+			<pubDate>Fri, 01 Mar 2019 22:03:10 +0100</pubDate>
+			
+			<guid>https://hugo.whiteimage.com/posts/my-forth-post/</guid>
+			<description>this is the description</description>
+			<content type="html"><![CDATA[<p>Lorem Ipsum is <code>simply</code> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &lsquo;Content here, content here&rsquo;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &lsquo;lorem ipsum&rsquo; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+
+<ul>
+<li>kjsdlfjsdf</li>
+<li>sdjfklsdjf</li>
+<li>sdfkjsdhfkjsd</li>
+</ul>
+]]></content>
+		</item>
+		
+		<item>
+			<title>my first post</title>
+			<link>https://hugo.whiteimage.com/posts/my-first-post-copy/</link>
+			<pubDate>Sun, 23 Sep 2018 21:19:45 +0100</pubDate>
+			
+			<guid>https://hugo.whiteimage.com/posts/my-first-post-copy/</guid>
+			<description>Below is some sample code:
+SELECT * FROM `users` `u`;first.onchange = function() { myWorker.postMessage([first.value,second.value]); console.log(&amp;#39;Message posted to worker&amp;#39;); } second.onchange = function() { myWorker.postMessage([first.value,second.value]); console.log(&amp;#39;Message posted to worker&amp;#39;); } &amp;lt;?php $xml=simplexml_load_file(&amp;#34;note.xml&amp;#34;) or die(&amp;#34;Error: Cannot create object&amp;#34;); echo $xml-&amp;gt;to . &amp;#34;&amp;lt;br&amp;gt;&amp;#34;; echo $xml-&amp;gt;from . &amp;#34;&amp;lt;br&amp;gt;&amp;#34;; echo $xml-&amp;gt;heading . &amp;#34;&amp;lt;br&amp;gt;&amp;#34;; echo $xml-&amp;gt;body; ?&amp;gt; &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Title of the document&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; The content of the document...... &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;</description>
+			<content type="html"><![CDATA[<p>Below is some sample code:</p>
+<div class="highlight"><pre class="chroma"><code class="language-mysql" data-lang="mysql"><span class="k">SELECT</span> <span class="o">*</span>
+<span class="k">FROM</span> <span class="o">`</span><span class="n">users</span><span class="o">`</span> <span class="o">`</span><span class="n">u</span><span class="o">`</span><span class="p">;</span></code></pre></div><div class="highlight"><pre class="chroma"><code class="language-js" data-lang="js"><span class="nx">first</span><span class="p">.</span><span class="nx">onchange</span> <span class="o">=</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+  <span class="nx">myWorker</span><span class="p">.</span><span class="nx">postMessage</span><span class="p">([</span><span class="nx">first</span><span class="p">.</span><span class="nx">value</span><span class="p">,</span><span class="nx">second</span><span class="p">.</span><span class="nx">value</span><span class="p">]);</span>
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;Message posted to worker&#39;</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="nx">second</span><span class="p">.</span><span class="nx">onchange</span> <span class="o">=</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+  <span class="nx">myWorker</span><span class="p">.</span><span class="nx">postMessage</span><span class="p">([</span><span class="nx">first</span><span class="p">.</span><span class="nx">value</span><span class="p">,</span><span class="nx">second</span><span class="p">.</span><span class="nx">value</span><span class="p">]);</span>
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;Message posted to worker&#39;</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div><div class="highlight"><pre class="chroma"><code class="language-php" data-lang="php"><span class="cp">&lt;?php</span>
+<span class="nv">$xml</span><span class="o">=</span><span class="nx">simplexml_load_file</span><span class="p">(</span><span class="s2">&#34;note.xml&#34;</span><span class="p">)</span> <span class="k">or</span> <span class="k">die</span><span class="p">(</span><span class="s2">&#34;Error: Cannot create object&#34;</span><span class="p">);</span>
+<span class="k">echo</span> <span class="nv">$xml</span><span class="o">-&gt;</span><span class="na">to</span> <span class="o">.</span> <span class="s2">&#34;&lt;br&gt;&#34;</span><span class="p">;</span>
+<span class="k">echo</span> <span class="nv">$xml</span><span class="o">-&gt;</span><span class="na">from</span> <span class="o">.</span> <span class="s2">&#34;&lt;br&gt;&#34;</span><span class="p">;</span>
+<span class="k">echo</span> <span class="nv">$xml</span><span class="o">-&gt;</span><span class="na">heading</span> <span class="o">.</span> <span class="s2">&#34;&lt;br&gt;&#34;</span><span class="p">;</span>
+<span class="k">echo</span> <span class="nv">$xml</span><span class="o">-&gt;</span><span class="na">body</span><span class="p">;</span>
+<span class="cp">?&gt;</span>
+</code></pre></div><div class="highlight"><pre class="chroma"><code class="language-html" data-lang="html"><span class="cp">&lt;!DOCTYPE html&gt;</span>
+<span class="p">&lt;</span><span class="nt">html</span><span class="p">&gt;</span>
+<span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span>
+<span class="p">&lt;</span><span class="nt">title</span><span class="p">&gt;</span>Title of the document<span class="p">&lt;/</span><span class="nt">title</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">head</span><span class="p">&gt;</span>
+
+<span class="p">&lt;</span><span class="nt">body</span><span class="p">&gt;</span>
+The content of the document......
+<span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
+
+<span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span></code></pre></div>]]></content>
+		</item>
+		
+		<item>
+			<title>my second post</title>
+			<link>https://hugo.whiteimage.com/posts/my-second-post-copy/</link>
+			<pubDate>Thu, 01 Feb 2018 22:03:10 +0100</pubDate>
+			
+			<guid>https://hugo.whiteimage.com/posts/my-second-post-copy/</guid>
+			<description>this is the description</description>
+			<content type="html"><![CDATA[<p>Lorem Ipsum is <code>simply</code> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &lsquo;Content here, content here&rsquo;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &lsquo;lorem ipsum&rsquo; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+
+<ul>
+<li>kjsdlfjsdf</li>
+<li>sdjfklsdjf</li>
+<li>sdfkjsdhfkjsd</li>
+</ul>
+]]></content>
 		</item>
 		
 	</channel>

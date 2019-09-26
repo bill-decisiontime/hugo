@@ -1,7 +1,8 @@
 ---
-title: "My First Poste"
-date: 2019-09-23T21:19:45+01:00
+title: "my first post"
+date: 2019-08-25T21:19:45+01:00
 disqus: false
+featuredImg: "https://cdn.lynda.com/course/633854/633854-636549849211882123-16x9.jpg"
 draft: false
 ---
 

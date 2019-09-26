@@ -1,7 +1,7 @@
 ---
-title: "My Second Post"
-date: 2019-09-23T22:03:10+01:00
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: "my second post"
+date: 2018-02-01T22:03:10+01:00
+featuredImg: 'https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/11/nh-pattern3.jpg'
 summary: 'this is the description'
 show_reading_time: true
 disqus: false

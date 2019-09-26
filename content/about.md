@@ -3,6 +3,7 @@ title: "About"
 date: 2019-09-23T22:59:49+01:00
 type: "page"
 url: "/about"
+featuredImg: "https://as1.ftcdn.net/jpg/01/27/68/64/500_F_127686483_dJxngplyTiWBxJp7noK8oHunLYo4F8jj.jpg"
 hideDate: true
 disqus: false
 draft: false
