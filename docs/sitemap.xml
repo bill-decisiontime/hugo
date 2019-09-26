@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://hugo.whiteimage.com/contact/</loc>
     <lastmod>2019-09-25T22:35:41+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://hugo.whiteimage.com/</loc>
     <lastmod>2019-09-25T22:35:41+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/pages/</loc>
+    <loc>https://hugo.whiteimage.com/pages/</loc>
     <lastmod>2019-09-25T22:35:41+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://hugo.whiteimage.com/about/</loc>
     <lastmod>2019-09-23T22:59:49+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-second-post/</loc>
+    <loc>https://hugo.whiteimage.com/posts/my-second-post/</loc>
     <lastmod>2019-09-23T22:03:10+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://hugo.whiteimage.com/posts/</loc>
     <lastmod>2019-09-23T22:03:10+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://hugo.whiteimage.com/posts/my-first-post/</loc>
     <lastmod>2019-09-23T21:19:45+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://hugo.whiteimage.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://hugo.whiteimage.com/tags/</loc>
   </url>
   
 </urlset>
