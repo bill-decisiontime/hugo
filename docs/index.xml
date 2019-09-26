@@ -1,53 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Hermit</title>
-    <link>https://hugo.whiteimage.com/</link>
-    <description>Recent content on Hugo Hermit</description>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Wed, 25 Sep 2019 22:35:41 +0100</lastBuildDate>
     
-	<atom:link href="https://hugo.whiteimage.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>https://hugo.whiteimage.com/contact/</link>
+      <link>http://example.org/contact/</link>
       <pubDate>Wed, 25 Sep 2019 22:35:41 +0100</pubDate>
       
-      <guid>https://hugo.whiteimage.com/contact/</guid>
+      <guid>http://example.org/contact/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://hugo.whiteimage.com/about/</link>
+      <link>http://example.org/about/</link>
       <pubDate>Mon, 23 Sep 2019 22:59:49 +0100</pubDate>
       
-      <guid>https://hugo.whiteimage.com/about/</guid>
+      <guid>http://example.org/about/</guid>
       <description>Nisi Lorem aliquip enim voluptate elit Lorem commodo fugiat. Pariatur laboris ex nisi ipsum nisi esse exercitation reprehenderit laboris officia labore officia anim. Commodo officia cillum irure magna velit eu eiusmod do cillum velit et qui eu. Non ut tempor esse ullamco minim elit magna deserunt labore non officia voluptate.
 Reprehenderit occaecat nisi dolor aute velit aute voluptate consectetur mollit. Ullamco aute occaecat veniam Lorem laborum ullamco minim sunt officia enim.</description>
     </item>
     
     <item>
       <title>My Second Post</title>
-      <link>https://hugo.whiteimage.com/posts/my-second-post/</link>
+      <link>http://example.org/posts/my-second-post/</link>
       <pubDate>Mon, 23 Sep 2019 22:03:10 +0100</pubDate>
       
-      <guid>https://hugo.whiteimage.com/posts/my-second-post/</guid>
+      <guid>http://example.org/posts/my-second-post/</guid>
       <description>this is the description</description>
     </item>
     
     <item>
       <title>My First Poste</title>
-      <link>https://hugo.whiteimage.com/posts/my-first-post/</link>
+      <link>http://example.org/posts/my-first-post/</link>
       <pubDate>Mon, 23 Sep 2019 21:19:45 +0100</pubDate>
       
-      <guid>https://hugo.whiteimage.com/posts/my-first-post/</guid>
+      <guid>http://example.org/posts/my-first-post/</guid>
       <description> HI Below is some sample code:
-SELECT * FROM users;</description>
+SELECT * FROM users;  </description>
     </item>
     
   </channel>
