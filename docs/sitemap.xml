@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hugo.whiteimage.com/contact/</loc>
+    <lastmod>2019-09-25T22:35:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo.whiteimage.com/</loc>
+    <lastmod>2019-09-25T22:35:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo.whiteimage.com/about/</loc>
+    <lastmod>2019-09-23T22:59:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo.whiteimage.com/posts/</loc>
+    <lastmod>2019-08-25T21:19:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.whiteimage.com/posts/my-third-post/</loc>
+    <lastmod>2019-08-25T21:19:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo.whiteimage.com/posts/my-forth-post/</loc>
+    <lastmod>2019-03-01T22:03:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo.whiteimage.com/posts/my-first-post-copy/</loc>
+    <lastmod>2018-09-23T21:19:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo.whiteimage.com/posts/my-second-post-copy/</loc>
+    <lastmod>2018-02-01T22:03:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo.whiteimage.com/tags/</loc>
+  </url>
+  
+</urlset>
