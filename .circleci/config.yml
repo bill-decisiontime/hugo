@@ -9,9 +9,9 @@ jobs:
     steps:
     
       - persist_to_workspace:
-      root: /root/hugo
-      paths:
-        - docs
+        root: /root/hugo
+        paths:
+          - docs
 
       # install git
       - run: apk update && apk add git
