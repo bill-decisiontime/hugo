@@ -9,9 +9,7 @@ jobs:
     steps:
     
       - persist_to_workspace:
-          root: /root/hugo
-          paths:
-            - docs
+          root: $HUGO_BUILD_DIR
 
       # install git
       - run: apk update && apk add git
