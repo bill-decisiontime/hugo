@@ -31,6 +31,23 @@ jobs:
           command: |
             htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html \
             --empty-alt-ignore --disable-external
+            
+  docs-deploy:
+      docker:
+        - image: node:8.10.0
+      steps:
+        - checkout
+        - attach_workspace:
+            at: $HUGO_BUILD_DIR
+        - run:
+            name: Install and configure dependencies
+            command: |
+              npm install -g --silent gh-pages@2.0.1
+              git config user.email "bill.morrison@teamsolutionz.com"
+              git config user.name "Bill Morrison"
+        - run:
+            name: Deploy docs to gh-pages branch
+            command: gh-pages --dist $HUGO_BUILD_DIR            
 
       # `deploy` step: identical to a `run` step, but uses only one container:
       # /docs/2.0/configuration-reference/#deploy 
