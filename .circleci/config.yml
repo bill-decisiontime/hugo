@@ -28,7 +28,7 @@ jobs:
     steps:
       - checkout
       - attach_workspace:
-          at: ~/hugo/docs
+          at: /root/hugo/docs
       - run:
           name: Install and configure dependencies
           command: |
@@ -37,7 +37,7 @@ jobs:
             git config user.name "Bill Morrison"
       - run:
           name: Deploy docs to gh-pages branch
-          command: gh-pages --dist ~/hugo/docs
+          command: gh-pages --dist /root/hugo/docs
           
 workflows:
   version: 2
