@@ -42,7 +42,7 @@ jobs:
             git config user.name "Bill Morrison"
       - run:
           name: Deploy docs to gh-pages branch
-          command: gh-pages --dist /root/hugo/docs
+          command: gh-pages --dist docs
           
 workflows:
   version: 2
