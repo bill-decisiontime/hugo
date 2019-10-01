@@ -33,7 +33,7 @@ jobs:
     steps:
       - checkout
       - attach_workspace:
-          at: /root/hugo/docs
+          at: docs
       - run:
           name: Install and configure dependencies
           command: |
