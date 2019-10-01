@@ -2,7 +2,7 @@ version: 2
 build:
   jobs:
     - docs-build-test
-    - docs-deploy
+    - docs-deploy:
       requires:
         - docs-build-test
         
