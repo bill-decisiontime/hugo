@@ -5,7 +5,7 @@ jobs:
       - image: cibuilds/hugo:latest
     working_directory: ~/hugo
     environment:
-      HUGO_BUILD_DIR: ~/hugo/docs
+      HUGO_BUILD_DIR: /root/hugo/docs
     steps:
 
       # install git
@@ -28,7 +28,7 @@ jobs:
     steps:
       - checkout
       - attach_workspace:
-          at: docs
+          at: /root/hugo/docs
       - run:
           name: Install and configure dependencies
           command: |
