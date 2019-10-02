@@ -52,12 +52,9 @@ workflows:
   build:
     jobs:
       - docs-build-test:
-          filters:
-            branches:
-              only: master      
+        filters:
+          branches:
+            only: master      
       - docs-deploy:
-          requires:
-            - docs-build-test
-          filters:
-            branches:
-              only: master            
+        requires:
+          - docs-build-test          
