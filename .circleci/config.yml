@@ -49,7 +49,8 @@ jobs:
              - "b2:6e:db:ef:93:d5:40:99:1c:3a:37:af:82:80:19:0a"            
       - run:
           name: Deploy docs to gh-pages branch
-          command: gh-pages --dist docs
+          command: gh-pages --message "[skip ci]" --dist docs
+          
 workflows:
   version: 2
   build-test-and-deploy:
