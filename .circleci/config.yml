@@ -21,6 +21,11 @@ jobs:
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
 
       - run: htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html --empty-alt-ignore --disable-external
+      
+      - persist_to_workspace:
+          root: /root/hugo
+          paths:
+            - docs     
           
   docs-deploy:
     docker:
@@ -28,7 +33,7 @@ jobs:
     steps:
       - checkout
       - attach_workspace:
-          at: /root/hugo/docs
+          at: /tmp/workspace
       - run:
           name: Install and configure dependencies
           command: |
@@ -40,7 +45,7 @@ jobs:
              - "b2:6e:db:ef:93:d5:40:99:1c:3a:37:af:82:80:19:0a"            
       - run:
           name: Deploy docs to gh-pages branch
-          command: gh-pages --dist docs
+          command: gh-pages --dist /tmp/workspace/docs
           
 workflows:
   version: 2
