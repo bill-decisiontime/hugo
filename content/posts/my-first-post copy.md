@@ -9,7 +9,7 @@ draft: false
 Below is some sample code:
 
 ``` mysql
-SELECT *
+SELECT `u`.*
 FROM `users` `u`;
 ```
 
