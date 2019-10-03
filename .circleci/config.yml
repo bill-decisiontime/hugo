@@ -18,10 +18,10 @@ jobs:
           name: Build with hugo
           command: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
       - run: 
-          name: Test the HTML
+          name: Test the HTML with htmlproofer
           command: |
             htmlproofer $HUGO_BUILD_DIR --allow-hash-href \
-            --check-html --empty-alt-ignore --disable-external
+            --check-html --empty-alt-ignore
       - persist_to_workspace:
           root: /root/hugo
           paths:
