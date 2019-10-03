@@ -5,7 +5,7 @@ jobs:
       - image: cibuilds/hugo:latest
     working_directory: ~/hugo
     environment:
-      HUGO_BUILD_DIR: /root/hugo/docs      
+      HUGO_BUILD_DIR: /root/hugo/public      
     steps:
       - run: 
           name: Install git
@@ -24,7 +24,7 @@ jobs:
       - persist_to_workspace:
           root: /root/hugo
           paths:
-            - docs
+            - public
   docs-deploy:
     docker:
       - image: node:8.10.0
@@ -43,7 +43,7 @@ jobs:
              - "b2:6e:db:ef:93:d5:40:99:1c:3a:37:af:82:80:19:0a"            
       - run:
           name: Deploy docs to gh-pages branch
-          command: gh-pages --message "Updates [skip ci]" --dist docs
+          command: gh-pages --message "Updates [skip ci]" --dist public
 workflows:
   version: 2
   build-test-and-deploy:
