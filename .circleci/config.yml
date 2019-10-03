@@ -20,8 +20,7 @@ jobs:
       - run: 
           name: Test the HTML with htmlproofer
           command: |
-            htmlproofer $HUGO_BUILD_DIR --allow-hash-href \
-            --check-html --empty-alt-ignore
+            htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html
       - persist_to_workspace:
           root: /root/hugo
           paths:
