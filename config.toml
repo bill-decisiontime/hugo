@@ -28,7 +28,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
   dateform = "Jan 2, 2006"
-  dateformTime = "Jan 2, 2006 at 15:04"
+  dateformTime = "Jan 2, 2006 @ 15:04"
   dateformShort = "Jan 2"
   dateformNum = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
